@@ -2,6 +2,10 @@
 
 > For detailed hardware setup and required components, please refer to the project report.
 
+![Pet Robot Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Pet-Robot/main/Images/Screenshot%202025-02-20%20092318.png)
+
+![Pet Robot Screenshot](https://raw.githubusercontent.com/Ilmaa2003/Pet-Robot/main/Images/Screenshot%202025-02-20%20092806.png)
+
 ---
 
 ### Software Setup (Arduino IDE)
